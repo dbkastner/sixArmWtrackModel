@@ -11,4 +11,4 @@ column 2 contains the arms visited on each trial.
 column 3 contains whether that arm was rewarded (1) or not (0).
 column 4 containts the identity of the center arm for the task.
 column 5 containts the identity of the left outer arm for the task.
-column 6 contains whether the poke broke the beam of the reward well (1) or it if was a missed poke (0)
+column 6 contains whether the poke broke the beam of the reward well (1) or it if was a missed poke (0).
